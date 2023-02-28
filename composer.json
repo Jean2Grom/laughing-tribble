@@ -4,6 +4,7 @@
         "psr-4": {
             "test\\form\\": "vendor/test/form"
         }
-    }
+    }, 
+    "minimum-stability": "dev"
 
 }
