@@ -1,0 +1,9 @@
+{
+    "name": "jean2grom/laughing-tribble",
+    "autoload": {
+        "psr-4": {
+            "test\\form\\": "vendor/test/form"
+        }
+    }
+
+}
