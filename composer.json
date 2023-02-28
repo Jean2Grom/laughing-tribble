@@ -6,9 +6,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "test\\form\\": "vendor/test/form"
+            "jean2grom\\laughing-tribble\\test\\form\\": "test/form"
         }
     }, 
     "minimum-stability": "dev"
-
 }
