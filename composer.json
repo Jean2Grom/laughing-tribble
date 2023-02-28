@@ -1,5 +1,9 @@
 {
     "name": "jean2grom/laughing-tribble",
+    "type": "library",
+    "description": "Testing packagist publication",
+    "homepage": "https://github.com/Jean2Grom/laughing-tribble",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "test\\form\\": "vendor/test/form"
